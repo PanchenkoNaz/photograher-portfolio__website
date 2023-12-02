@@ -6,7 +6,7 @@
 
 ![Richard Ryan Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-Can you view [my project](https://panchenkonaz.github.io/responsive__clock/)
+Can you view [my project](https://panchenkonaz.github.io/photograher-portfolio__website/)
 
 
  
